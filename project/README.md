@@ -1,5 +1,5 @@
 # 原项目GitHub
-
+https://github.com/Liu-Yicheng/seq2seq_attention-on-picture
 # 项目说明
 该项目是将多钼靶数据进行二分类(良性和恶性)，多钼靶数据指的是一个病人拥有多张钼靶图片，但是标签只有这个病人的肿瘤是良性和恶性，并没有每张钼靶的标签。
 
@@ -9,8 +9,8 @@ keras
 python=3.8 
 
 # 数据以及对应处理说明
-原始数据是duocengMUBA_rem,目前以及上传到百度网盘，路径是xxx
-数据预处理之后的数据名字是dada，目前以及上传到百度网盘，路径是xxx
+原始数据是duocengMUBA_rem,目前以及上传到百度网盘，路径是alist盘sjwlab/chenyinda/project/多层钼靶分类/duocengMUBA_rem.zip
+数据预处理之后的数据名字是dada，目前以及上传到百度网盘，路径是alist盘sjwlab/chenyinda/project/多层钼靶分类/data.zip
 
 该数据内部有一个xlsx，记录着5033个病人的标签。
 由于一开始每个病人的钼靶图片数量不一致，因此需要填补和选择，目前选择的是填补和选择到36张。
